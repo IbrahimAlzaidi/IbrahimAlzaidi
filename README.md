@@ -1,23 +1,54 @@
-### Hi there 👋
+# Ibrahim Al Zaidi
 
-# 💫 About Me:
-I am a Software Engineer, interested in Mobile development.
+Software Engineer focused on mobile development, cross-platform applications, and backend systems.
 
+I enjoy building products that combine solid architecture, performance, and a clean user experience — from Android apps and Compose Multiplatform libraries to .NET desktop tools and ASP.NET APIs.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-al-zaidi/) 
+## What I Work On
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=plastic&logo=realm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IbrahimAlzaidi&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlzaidi&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlzaidi&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- Android development with Kotlin and Jetpack Compose
+- Cross-platform development with Compose Multiplatform and Flutter
+- Native performance work with C++ and OpenGL ES
+- Backend development with ASP.NET Core and REST APIs
+- Application architecture, maintainability, and developer-focused tooling
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IbrahimAlzaidi&limit=5&theme=nord&combine_all_yearly_contributions=true)
+## Selected Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=IbrahimAlzaidi&icon=5&color=9)](https://visitcount.itsvg.in)
+### [ComposeFootballPitch](https://github.com/IbrahimAlzaidi/ComposeFootballPitch)
+A Compose Multiplatform library for rendering customizable football pitches and team lineups across Android, Desktop, and iOS.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Private Product Work
+I also work on private repositories involving:
+- Android applications for operational and logistics workflows
+- .NET desktop software focused on productivity and offline-first experiences
+- ASP.NET Core backend services and API design
+- Flutter applications with clean architecture and local persistence
+
+## Tech Focus
+
+**Languages**  
+Kotlin · Java · C# · C++ · Dart
+
+**Frameworks & Platforms**  
+Android · Jetpack Compose · Compose Multiplatform · Flutter · .NET · ASP.NET Core · WinUI
+
+**Tools & Technologies**  
+OpenGL ES · SQLite · MySQL · MongoDB · Firebase · Git · Linux
+
+## Current Interests
+
+- Mobile app architecture
+- Compose and modern UI development
+- Native performance and rendering
+- Cross-platform product development
+- Scalable backend services
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ibrahim-al-zaidi/)
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=IbrahimAlzaidi&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlzaidi&theme=vue-dark&hide_border=true&layout=compact)
